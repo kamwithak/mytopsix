@@ -1,4 +1,4 @@
 # MY TOP SIX U/M COURSE CALCULATOR
-average calculator
+overall average website calculator
 
 # execute calculation.html
