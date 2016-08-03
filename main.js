@@ -54,7 +54,7 @@
 
     function calculation() {
         
-      //conversion to #'s, better way to do this, do it after done learning javascript
+      //conversion to #'s, better way to do this, do it later
         
         var af = Number(document.getElementById("advfuncs").value);
         
@@ -70,7 +70,7 @@
         
         var avg = (af + cl + ec + en + wd + ib) / 6;
         
-    //banner output
+    //banner output here onwards
         
         if (isNaN(avg)){
             
