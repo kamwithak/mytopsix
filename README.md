@@ -1,6 +1,6 @@
 # MY TOP SIX U/M COURSE CALCULATOR
 
-overall average calculator for final year of high school - Ontario, Canada
+overall average calculator for final year of high school (top six system) - Ontario, Canada
 
 simply download zip, unzip, and run the .html
 
