@@ -4,8 +4,7 @@
     
         var i0 = ["1K", "2K", "3K", "4K", "5K", "6K"]; //element id's
         
-        var c1 = prompt("CUSTOMIZE 'MY TOP SIX U/M CALCULATOR' FOR YOUR COURSE LOAD!" + "\n"
-                        + "WHAT COURSES ARE IN YOUR TOP SIX?" + "\n" + "ENTER COURSE #1: ").toUpperCase();
+        var c1 = prompt("WHAT COURSES ARE IN YOUR TOP SIX?" + "\n" + "ENTER COURSE #1: ").toUpperCase();
 
         var c2 = prompt("COURSE #2:").toUpperCase();
 
