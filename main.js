@@ -71,11 +71,11 @@
         
     //banner output here onwards
         
-        if (isNaN(avg)){
+        if (isNaN(avg)) {
             
             document.getElementById("calc0").innerHTML = ("INVALID INPUT");
             
-        } else if (af === 0 || cl === 0 || ec === 0 || en === 0 || wd === 0 || ib === 0 || avg === 0){
+        } else if (af === 0 || cl === 0 || ec === 0 || en === 0 || wd === 0 || ib === 0 || avg === 0) {
             
             document.getElementById("calc0").innerHTML = ("MISSING INPUT");
             
