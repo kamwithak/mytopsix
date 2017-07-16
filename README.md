@@ -2,7 +2,7 @@
 
 overall average calculator for final year of high school (top six system) - Ontario, Canada
 
-written from scratch 
+written from static web page
 
 simply download zip, unzip, and run the .html
 
