@@ -1,4 +1,3 @@
-// april 9th, in order to get away from online english lol
 
     function names() {
     
