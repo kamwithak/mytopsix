@@ -1,9 +1,10 @@
 # (First Toy Project - HTML/CSS)
-# MY TOP SIX U/M OVERALL AVERAGE CALCULATOR
-overall average calculator for final year of high school (top six system) - Ontario, Canada
+# My Final Year High School Average Calculator
 
-written from static web page
+Overall average calculator for final year of high school (top six system) - Ontario, Canada
 
-simply download zip, unzip, and open the html page!
+Written from static web page
+
+Simply download zip, unzip, and open the html page!
 
 # -> my_top_six.html
