@@ -1,4 +1,4 @@
-# (Design/Front-end project in High School)
+# (Design project in High School)
 # MY TOP SIX U/M OVERALL AVERAGE CALCULATOR
 overall average calculator for final year of high school (top six system) - Ontario, Canada
 
