@@ -4,6 +4,6 @@ overall average calculator for final year of high school (top six system) - Onta
 
 written from static web page
 
-simply download zip, unzip, and run the .html !
+simply download zip, unzip, and open the html page!
 
 # -> my_top_six.html
