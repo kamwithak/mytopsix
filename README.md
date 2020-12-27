@@ -1,4 +1,4 @@
-# (HIGH SCHOOL PROJECT - BASIC HTML/CSS)
+# (First Toy Project - HTML/CSS)
 # MY TOP SIX U/M OVERALL AVERAGE CALCULATOR
 overall average calculator for final year of high school (top six system) - Ontario, Canada
 
