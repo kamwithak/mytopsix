@@ -51,7 +51,7 @@ Written from static web page, cute vanilla javascript logic
 
 Simply download zip, unzip, and open the html page!
 
-# -> my_top_six.html
+~ my_top_six.html
 
 (OR)
 
