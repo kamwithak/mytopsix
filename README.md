@@ -10,7 +10,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -34,24 +33,17 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About the Project](#about-the-project)
+* [First Toy Project, Pre College](#first-toy-project,-pre-college)
   * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
 * [Usage](#usage)
 * [Roadmap](#roadmap)
-* [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-# (First Toy Project - HTML/CSS wooo) 😈
+## First Toy Project, Pre College - HTML/CSS wooo 😈
 [![Senior-Year High School Average Calculator][product-screenshot]](https://i.imgur.com/KdVBGgl.png)
 
 
@@ -68,8 +60,6 @@ Simply download zip, unzip, and open the html page!
 ## Roadmap
 
 See the [open issues](https://github.com/kamwithak/mytopsix.herokuapp.com/issues) for a list of proposed features (and known issues).
-
-
 
 <!-- LICENSE -->
 ## License
