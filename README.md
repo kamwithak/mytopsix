@@ -34,7 +34,6 @@
 ## Table of Contents
 
 * [First Toy Project, Pre College](#first-toy-project,-pre-college)
-  * [Built With](#built-with)
 * [Usage](#usage)
 * [Roadmap](#roadmap)
 * [License](#license)
