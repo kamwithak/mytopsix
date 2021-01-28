@@ -53,6 +53,11 @@ Simply download zip, unzip, and open the html page!
 
 # -> my_top_six.html
 
+(OR)
+
+[Check out the live deployment by clicking here!](http://mytopsix.herokuapp.com/)
+
+
 <!-- ROADMAP -->
 ## Roadmap
 
